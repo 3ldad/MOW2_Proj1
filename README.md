@@ -2,10 +2,10 @@
 
 
 TODO:
-- Zrobić ładniejszy wstęp do projektu (Bartek)
-- Dokładniejsze opisy do wykresów i co z nich wynika (do wszystkich chyba)
+- Zrobić ładniejszy wstęp do projektu (Bartek) - zrobione
+- Opisy, poprawienie czytelności wykresów i analiza  (Bartek) - rozpoczęte
 - Analizę danych brakujących/odstających (dwa proste sposoby + jeden "trudniejszy") = 3 różne zbiory danych jako output
 - skalowanie danych - min-max oraz standard scaller dla wszystkich sposobów preprocessingu
-- macierz korelacji
+- macierz korelacji (Bartek)
 - ewentualną analizę danych odstających lub odpowiedni komentarz
 - inżynierię cech, jeśli uważacie Państwo, że są jakieś cechy, które warto połączyć lub np. są dane w postaci timestamp lub lat/longiture
