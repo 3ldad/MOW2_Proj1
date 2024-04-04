@@ -9,3 +9,6 @@ TODO:
 - macierz korelacji (Bartek)
 - ewentualną analizę danych odstających lub odpowiedni komentarz
 - inżynierię cech, jeśli uważacie Państwo, że są jakieś cechy, które warto połączyć lub np. są dane w postaci timestamp lub lat/longiture
+
+
+### [MOW2 Project Kanban Board](https://github.com/users/akandrats/projects/2)
